@@ -26,6 +26,7 @@ body{
   color: var(--paper);
   font-family: var(--sans);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 ::selection{ background: var(--gold); color: var(--ink); }
@@ -385,6 +386,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 @media (max-width: 480px){
   .site-head{ padding: 2rem 1.1rem 1.5rem; }
   .book-row{ grid-template-columns: 1fr; }
-  .book-author{ grid-column: 1; text-align: left; }
+  .book-author{ grid-column: 1; text-align: left; white-space: normal; }
   .admin-panel{ padding: 1.5rem 1.25rem; }
 }
