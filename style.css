@@ -217,6 +217,9 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   padding: 3vh 1rem;
   overflow-y: auto;
 }
+.admin-overlay[hidden]{
+  display: none;
+}
 .admin-panel{
   position: relative;
   background: var(--paper);
