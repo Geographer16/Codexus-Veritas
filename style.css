@@ -135,13 +135,17 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .sort-group{ display: flex; align-items: center; gap: 0.5rem; }
 .sort-group label{ color: var(--muted-dark); }
 #sort-select{
-  background: transparent;
+  background: var(--ink-soft);
   color: var(--paper);
   border: 1px solid var(--line);
   border-radius: 6px;
   padding: 0.3rem 0.5rem;
   font-family: var(--sans);
   font-size: 0.85rem;
+}
+#sort-select option{
+  background: var(--ink-soft);
+  color: var(--paper);
 }
 
 /* ===== Catalog ===== */
