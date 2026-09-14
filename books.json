@@ -1,0 +1,3950 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 2,
+    "title": "1. Ulusal Erozyon ve Sedimantosyon Sempozyumu Tebliğleri",
+    "author": "Kolektif",
+    "publisher": "DSİ"
+  },
+  {
+    "id": 3,
+    "title": "101 Soruda Kuantum",
+    "author": "Kenneth W. Ford",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 4,
+    "title": "12. Ulusal Hidroloji Kongresi Cilt 1",
+    "author": "Kolektif",
+    "publisher": "Samsun Üniversitesi Yayınları"
+  },
+  {
+    "id": 5,
+    "title": "12. Ulusal Hidroloji Kongresi Cilt 2",
+    "author": "Kolektif",
+    "publisher": "Samsun Üniversitesi Yayınları"
+  },
+  {
+    "id": 6,
+    "title": "19. Yüzyıldan 20. Yüzyıla Modern Siyasal İdeolojiler",
+    "author": "H. Birsen Örs",
+    "publisher": "İstanbul Bilgi Üniversitesi Yayınları"
+  },
+  {
+    "id": 7,
+    "title": "1921 Anayasası",
+    "author": "Ergun Özbudun",
+    "publisher": "Atatürk Araştırmaları Merkezi"
+  },
+  {
+    "id": 8,
+    "title": "2. Felipe Döneminde Akdeniz ve Akdeniz Dünyası 1",
+    "author": "Fernand Braudel",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 9,
+    "title": "2. Felipe Döneminde Akdeniz ve Akdeniz Dünyası 2",
+    "author": "Fernand Braudel",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 10,
+    "title": "2. Felipe Döneminde Akdeniz ve Akdeniz Dünyası 3",
+    "author": "Fernand Braudel",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 11,
+    "title": "50 Soruda Görelilik Kuramları",
+    "author": "İbrahim Semiz",
+    "publisher": "Bilim ve Gelecek Kitaplığı"
+  },
+  {
+    "id": 12,
+    "title": "50 Soruda Milli Mücadele",
+    "author": "Ahmet Hür",
+    "publisher": "Puslu"
+  },
+  {
+    "id": 13,
+    "title": "80 Günde Devri Alem",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 14,
+    "title": "Adapazarı Ovası ve Sapanca Oluğunun Alüviyal Morfolojisi ve Kuaternerdeki Jeomorfolojik Tekamülü",
+    "author": "Turgut Bilgin",
+    "publisher": "İstanbul Üniversitesi Edebiyat Fakültesi Yayınları"
+  },
+  {
+    "id": 15,
+    "title": "Adem ve Havva'nın Günlükleri",
+    "author": "Mark Twain",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 16,
+    "title": "Adem'den Önce",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 17,
+    "title": "Adolf Hitler'i Öldürdüm",
+    "author": "Jason",
+    "publisher": "Kayıp Kıta"
+  },
+  {
+    "id": 18,
+    "title": "Afetler Coğrafyası",
+    "author": "Hasan Özdemir",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 19,
+    "title": "Afetler ve Afet Yönetimi",
+    "author": "Ramazan Özey ve Mehmet Ünlü",
+    "publisher": "Aktif"
+  },
+  {
+    "id": 20,
+    "title": "Aforizmalar",
+    "author": "Hippokrates",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 21,
+    "title": "Ailenin, Özel Mülkiyetin ve Devletin Kökeni",
+    "author": "Friedrich Engels",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 22,
+    "title": "Akıllı Makineler Nasıl Düşünür",
+    "author": "Sean Gerrish",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 23,
+    "title": "Aklını En doğru Şekilde Kullan",
+    "author": "Carol S. Dweck",
+    "publisher": "Yakamoz"
+  },
+  {
+    "id": 24,
+    "title": "Akşam Nöbeti",
+    "author": "Aydemir Balkan",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 25,
+    "title": "Alamut",
+    "author": "Peter Willey",
+    "publisher": "Yakamoz"
+  },
+  {
+    "id": 26,
+    "title": "Algoritma ve Proglamlama",
+    "author": "Şeyhmus Aydoğdu",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 27,
+    "title": "Alışılmadık Böcekler",
+    "author": "Rod Preston-Mafham ve Ken Preston-Mafham",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 28,
+    "title": "Amok Koşucusu",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 29,
+    "title": "Anabasis",
+    "author": "Ksenophon",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 30,
+    "title": "Anadolunun Tarihi Coğrafyası",
+    "author": "Veli Sevin",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 31,
+    "title": "Anılarım",
+    "author": "Ernst E. Hirsch",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 32,
+    "title": "Anlamsızlık Hissi",
+    "author": "Viktor E. Frank",
+    "publisher": "Mundi"
+  },
+  {
+    "id": 33,
+    "title": "Ansiklopedik Felsefe Sözlüğü",
+    "author": "Attila Tokatlı",
+    "publisher": "Bilgi"
+  },
+  {
+    "id": 34,
+    "title": "Antropojenik Jeomorfoloji",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 35,
+    "title": "Aritmetik",
+    "author": "Paul Lockhart",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 36,
+    "title": "Arşivdeki Trabzon",
+    "author": "Fatih Erol",
+    "publisher": "Ortahisar Belediyesi Kültür Yayınları"
+  },
+  {
+    "id": 37,
+    "title": "Arzın Merkezine Seyahat",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 38,
+    "title": "Aşkın Metafiziği",
+    "author": "Arthur Schopenhauer",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 39,
+    "title": "Astronomi",
+    "author": "Eric Chaisson ve Steve Mcmillan",
+    "publisher": "Nobel Yaşam"
+  },
+  {
+    "id": 40,
+    "title": "Atatürk Barajı ve Türkiye'ye Etkileri",
+    "author": "Necati Ağıralioğlu",
+    "publisher": "Scala"
+  },
+  {
+    "id": 41,
+    "title": "Ateş Yakmak",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 42,
+    "title": "Atmosferik Tozun Uzaktan Algılama ile Belirlenmesi",
+    "author": "Doğukan Doğu Yavaşlı ve Şeyma Ulukuş",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 43,
+    "title": "Atomaltı Parçacıklar",
+    "author": "Steven Weinberg",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 44,
+    "title": "Attila 1",
+    "author": "Thomas R. P. Mielke",
+    "publisher": "Olimpos"
+  },
+  {
+    "id": 45,
+    "title": "Attila 2",
+    "author": "Thomas R. P. Mielke",
+    "publisher": "Olimpos"
+  },
+  {
+    "id": 46,
+    "title": "Av Vakti",
+    "author": "Bear Grylls",
+    "publisher": "Portakal"
+  },
+  {
+    "id": 47,
+    "title": "Avcılıktan Gurmeliğe Yemeğin Kültürel Tarihi",
+    "author": "Priscilla Mary Işın",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 48,
+    "title": "Avrupa Düşüncesinin Serüveni",
+    "author": "Jacqueline Russ",
+    "publisher": "Doğubatı"
+  },
+  {
+    "id": 49,
+    "title": "Avrupa Zenginleşirken Asya Neden Yoksul Kaldı",
+    "author": "Prasannan Parthasarathi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 50,
+    "title": "Ay Işığı Sokağı",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 51,
+    "title": "Ay'a Yolculuk",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 52,
+    "title": "Ay'da İlk İnsanlar",
+    "author": "H. G. Wells",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 53,
+    "title": "Azınlığın Zenginliği Hepimizin Çıkarına mıdır?",
+    "author": "Zygmunt Bauman",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 54,
+    "title": "Aziz Ayyaş Efsanesi",
+    "author": "Joseph Roth",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 55,
+    "title": "Aziz Sancar",
+    "author": "Aziz Sancar",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 56,
+    "title": "Balonla 5 Hafta",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 57,
+    "title": "Başıma Yıldırım Düştü",
+    "author": "Jeffrey S. Rosenthal",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 58,
+    "title": "Bataklık Balıkçıları",
+    "author": "David Chandler, Derek Niemann ve Tony Whitehead",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 59,
+    "title": "Bayrağa Karşı",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 60,
+    "title": "Begüm’ün Beş Yüz Milyonu",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 61,
+    "title": "Beşeri Coğrafya",
+    "author": "Erol Tümertekin ve Nazmiye Özgüç",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 62,
+    "title": "Beşeri Coğrafya'da Araştırma Yöntemleri ve Teknikler",
+    "author": "Kolektif",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 63,
+    "title": "Beşeri Coğrafya'ya Giriş",
+    "author": "Özlem Sertkaya Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 64,
+    "title": "Besin Maddeleriyle Takım Olmak",
+    "author": "Jeff Lowenfels",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 65,
+    "title": "Beslenme Bilimi",
+    "author": "Rhiannon Lambert",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 66,
+    "title": "Besleyici Türler",
+    "author": "David Chandler, Derek Niemann ve Tony Whitehead",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 67,
+    "title": "Beyaz Diş",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 68,
+    "title": "Beyaz Zambaklar Ülkesinde",
+    "author": "Grigori Petrov",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 69,
+    "title": "Beynine Bir Kez Hava Değmeye Görsün",
+    "author": "Frank Vertosick Jr.",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 70,
+    "title": "Bilgisayar Destekli Temel Tasarım ve Haritalama",
+    "author": "Mehmet Çetin",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 71,
+    "title": "Bilgisayar ve Beyin",
+    "author": "John Von Neumann",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 72,
+    "title": "Bilgiyle Sohbet",
+    "author": "A. M. Celal Şengör",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 73,
+    "title": "Bilim Atlası",
+    "author": "Adam Hart Dawis",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 74,
+    "title": "Bilim Güzeldir",
+    "author": "Colin Salter",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 75,
+    "title": "Bilim İletişimi",
+    "author": "Frans Van Dam vd.",
+    "publisher": "Sabri Ülker Vakfı Yayınları"
+  },
+  {
+    "id": 76,
+    "title": "Bilim İnsanının Medya Rehberi",
+    "author": "Richard Hayes ve Daniel Grossman",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 77,
+    "title": "Bilim ve Laiklik",
+    "author": "Paul Langevin",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 78,
+    "title": "Bilim ve Sanatlar Üstüne Söylev",
+    "author": "Jean Jacques Rousseau",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 79,
+    "title": "Bilimin Büyüsü",
+    "author": "A. M. Celal Şengör",
+    "publisher": "İnkılap"
+  },
+  {
+    "id": 80,
+    "title": "Bilimin Ucunda",
+    "author": "Ömer Kamacı",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 81,
+    "title": "Bilimler Tarihi",
+    "author": "Stephen F. Mason",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 82,
+    "title": "Bilimsel İlkelerin Küçük Kitabı",
+    "author": "Surendra Verma",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 83,
+    "title": "Bilimsel Yöntemin İzinde",
+    "author": "Steven Gimbel",
+    "publisher": "Dipnot"
+  },
+  {
+    "id": 84,
+    "title": "Bilinç",
+    "author": "Susan Blackmore",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 85,
+    "title": "Bilinmeyen Bir Kadının Mektubu",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 86,
+    "title": "Bir Astronottan Hayat Dersleri",
+    "author": "Chris Hadfield",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 87,
+    "title": "Bir Dilim Biftek",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 88,
+    "title": "Bir Kadının Yaşamından Yirmi Dört Saat",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 89,
+    "title": "Bir Kuzey Macerası",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 90,
+    "title": "Bir Nefeste Dünya Tarihi",
+    "author": "Emma Marriott",
+    "publisher": "Maya"
+  },
+  {
+    "id": 91,
+    "title": "Bir Rol Yaratmak",
+    "author": "Konstantin Stanislavski",
+    "publisher": "Ren Yayınları"
+  },
+  {
+    "id": 92,
+    "title": "Bir Sahtekar Gibi Düşünmek",
+    "author": "Maria Konnikova",
+    "publisher": "İndigo"
+  },
+  {
+    "id": 93,
+    "title": "Bitki Coğrafyası",
+    "author": "Meral Avcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 94,
+    "title": "Biyocoğrafya",
+    "author": "C. Barry Cox, Peter D. Moore ve Richard J. Ladle",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 95,
+    "title": "Bizim Gibi Makineler",
+    "author": "Ronald J. Brachman ve Hector J. Levesque",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 96,
+    "title": "Böcek Yiyen Türler",
+    "author": "Rob Hume",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 97,
+    "title": "Bolaman Çayı ve Havzası'nın Coğrafyası",
+    "author": "Mustafa Özdemir",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 98,
+    "title": "Bölgesel Coğrafya'ya Giriş",
+    "author": "Ayşenur Timor",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 99,
+    "title": "Bölünmüş Yaşamlar",
+    "author": "Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 100,
+    "title": "Bu Hesapta Bir Gariplik Var",
+    "author": "Ceyhun Elgin",
+    "publisher": "Kırmızıkedi"
+  },
+  {
+    "id": 101,
+    "title": "Bulut Gözlemcisinin Rehberi",
+    "author": "Gavin Pretor Pinney",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 102,
+    "title": "Bulutları Okumak",
+    "author": "Oliver Perkins",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 103,
+    "title": "Bunu Herkes Bilir",
+    "author": "Emrah Safa Gürkan",
+    "publisher": "Kronik"
+  },
+  {
+    "id": 104,
+    "title": "Bütün Öyküler",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 105,
+    "title": "Buyology",
+    "author": "Martin Lindstorm",
+    "publisher": "Optimist"
+  },
+  {
+    "id": 106,
+    "title": "Büyük Dünya Seyahatnamesi",
+    "author": "İbn-i Battuta",
+    "publisher": "Yeni Şafak"
+  },
+  {
+    "id": 107,
+    "title": "Büyük Patlama Nasıl Çürütülür",
+    "author": "Luke A. Barnes ve Geraint F. Lewis",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 108,
+    "title": "Büyük Türkçe Sözlük",
+    "author": "D. Mehmet Doğan",
+    "publisher": "Gerçek Hayat"
+  },
+  {
+    "id": 109,
+    "title": "Büyümesiz Refah",
+    "author": "Tim Jackson",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 110,
+    "title": "Büyüsü Bozulmuş Dünyayı Büyülemek",
+    "author": "George Ritzer",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 111,
+    "title": "Buzlar Arasında Bir Kış",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 112,
+    "title": "Buzlar Sfenksi",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 113,
+    "title": "Buzullar ve Buzul Jeomorfolojisi",
+    "author": "Hüseyin Turoğlu",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 114,
+    "title": "Cadı Kazanı",
+    "author": "Arthur  Miller",
+    "publisher": "Mitos Boyut"
+  },
+  {
+    "id": 115,
+    "title": "Cam İnciler",
+    "author": "Emeric Pressburger",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 116,
+    "title": "Çamur, Ter ve Göz Yaşı",
+    "author": "Bear Grylls",
+    "publisher": "Portakal"
+  },
+  {
+    "id": 117,
+    "title": "CBS Mekansal Analiz Uygulamaları 1",
+    "author": "Volkan Yıldırım ve Mesut Şimşek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 118,
+    "title": "CBS Mekansal Analiz Uygulamaları 2",
+    "author": "Mesut Şimşek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 119,
+    "title": "Cesur Yeni Dünya",
+    "author": "Aldous Huxley",
+    "publisher": "İthaki"
+  },
+  {
+    "id": 120,
+    "title": "Çevre Sorunları",
+    "author": "Mesut Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 121,
+    "title": "Çevre Terimlerinin Küçük Kitabı",
+    "author": "Patrick Hook",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 122,
+    "title": "Chancellor",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 123,
+    "title": "Chanteleine Kontu",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 124,
+    "title": "Cimri",
+    "author": "Moliere",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 125,
+    "title": "Çin Tarihi",
+    "author": "Wolfram Eberhard",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 126,
+    "title": "Çin’de Bir Çinlinin Başına Gelenler",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 127,
+    "title": "Clovis Dardentor",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 128,
+    "title": "Coğrafi Bilgi Sistemleri",
+    "author": "Hasan Özdemir",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 129,
+    "title": "Coğrafi Bilgi Sistemleri Tabanlı Modellemeler",
+    "author": "Mehmet Akif Erdoğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 130,
+    "title": "Coğrafi Bilgi Sistemleri Uygulamaları",
+    "author": "Ebru Akköprü ve Mehmet Fatih Döker",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 131,
+    "title": "Coğrafi Bilgi Sistemleri Uygulamaları 1",
+    "author": "Fatih Adıgüzel ve Fatih Ocak",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 132,
+    "title": "Coğrafi Bilgi Sistemleri Uygulamaları 2",
+    "author": "Fatih Adıgüzel ve Fatih Ocak",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 133,
+    "title": "Coğrafi Bilgi Sistemleri Uygulamaları 2",
+    "author": "Ebru Akköprü ve Mehmet Fatih Döker",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 134,
+    "title": "Coğrafi Bilgi Sistemleri Uygulamaları 3",
+    "author": "Fatih Adıgüzel ve Fatih Ocak",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 135,
+    "title": "Coğrafi Bilgi Sistemleri ve Uzaktan Algılama Uygulamaları",
+    "author": "Oğuz Güngör",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 136,
+    "title": "Coğrafi Bilgi Sistemlerinde Koordinat ve Projeksiyon Bilgisi",
+    "author": "Zeynel Çılğın",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 137,
+    "title": "Coğrafi Bilgi Sistemlerine Giriş",
+    "author": "Muhammed Zeynel Öztürk",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 138,
+    "title": "Coğrafi Perspektifle Dağ ve Dağlık Alanlar",
+    "author": "Kolektif",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 139,
+    "title": "Coğrafya",
+    "author": "Jhon A. Matthews ve David T. Herbert",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 140,
+    "title": "Coğrafya Bilim Alanları Sözlüğü",
+    "author": "Hayati Doğanay",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 141,
+    "title": "Coğrafya Bilim Alanlarına Giriş",
+    "author": "Hayati Doğanay ve Serkan Doğanay",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 142,
+    "title": "Coğrafya Geçmiş-Kavramlar-Coğrafyacılar",
+    "author": "Nazmiye Özgüç ve Erol Tümertekin",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 143,
+    "title": "Coğrafya Geçmiş-Kavramlar-Coğrafyacılar",
+    "author": "Atilla Karataş",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 144,
+    "title": "Coğrafya Herşeyden Önce Savaş Yapmaya Yarar",
+    "author": "Yves Lacoste",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 145,
+    "title": "Coğrafya Neden Önemlidir",
+    "author": "Harm De Blij",
+    "publisher": "Hece"
+  },
+  {
+    "id": 146,
+    "title": "Coğrafya ve Devrim",
+    "author": "David N. Livingstone ve Charles W. J. Withers",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 147,
+    "title": "Coğrafyada Uzaktan Algılama",
+    "author": "Doğukan Doğu Yavaşlı ve M. Kirami Ölgen",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 148,
+    "title": "Çoğunlukla Zararsız",
+    "author": "Douglas Adams",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 149,
+    "title": "Çözülmüş Problemlerle Temel Hidroloji",
+    "author": "Ömer Yüksek ve Osman Üçüncü",
+    "publisher": "Akoluk"
+  },
+  {
+    "id": 150,
+    "title": "Cynthia'nın Yetimi",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 151,
+    "title": "Dahi Kurtarıcı",
+    "author": "Kolektif",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 152,
+    "title": "Daredevil",
+    "author": "Frank Miller ve John Romita Jr.",
+    "publisher": "Arkabahçe"
+  },
+  {
+    "id": 153,
+    "title": "Darwin'le Akşam Yemeği",
+    "author": "Jonathan Silvertown",
+    "publisher": "Kolektif"
+  },
+  {
+    "id": 154,
+    "title": "Deliliğin Dağlarında",
+    "author": "Howard Phillips Lovecraft",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 155,
+    "title": "Demir Ökçe",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 156,
+    "title": "Demokrasi",
+    "author": "Bernard Craig",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 157,
+    "title": "Denemeler",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 158,
+    "title": "Denemeler",
+    "author": "Michle De Montaigne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 159,
+    "title": "Deniz Kurdu",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 160,
+    "title": "Denizler Altında 20.000 Fersah",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 161,
+    "title": "Denizlerde Bilimin Peşinde",
+    "author": "Ellen Prager",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 162,
+    "title": "Denizlerde Yaşam",
+    "author": "Amy-Jane Beer ve Andrew Campbell",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 163,
+    "title": "Deprem",
+    "author": "Haluk Eyidoğan",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 164,
+    "title": "Derin Öğrenme",
+    "author": "John D. Kelleher",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 165,
+    "title": "Derin Uzay",
+    "author": "Govert Schilling",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 166,
+    "title": "Derinlerdeki Avcılar",
+    "author": "David Alderton ve John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 167,
+    "title": "Devrim Psikolojisi",
+    "author": "Gustave Le Bon",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 168,
+    "title": "Dillerin Kökeni Üstüne Deneme",
+    "author": "Jean Jacques Rousseau",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 169,
+    "title": "Dinozorların Yükselişi ve Çöküşü",
+    "author": "Steve Brusatte",
+    "publisher": "Koç Üniversitesi Yayınları"
+  },
+  {
+    "id": 170,
+    "title": "Doğa Tarihi",
+    "author": "Gaius Plinius Secundus",
+    "publisher": "Say"
+  },
+  {
+    "id": 171,
+    "title": "Doğal Kaynaklar",
+    "author": "Hayati Doğanay ve Namık Tanfer Altaş",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 172,
+    "title": "Doğanın Keşfi",
+    "author": "Andrea Wulf",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 173,
+    "title": "Doğu ve Batı",
+    "author": "Ekrem Akurgal",
+    "publisher": "Kronik"
+  },
+  {
+    "id": 174,
+    "title": "Doksanbeş Tez",
+    "author": "Martin Luther",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 175,
+    "title": "Doktor Moreau'nun Adası",
+    "author": "H. G. Wells",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 176,
+    "title": "Dolaptan Temaşa",
+    "author": "Ahmet Mithat Efendi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 177,
+    "title": "Döşeğimde  Ölürken",
+    "author": "William Faulkner",
+    "publisher": "İletişim"
+  },
+  {
+    "id": 178,
+    "title": "Dr. Ox'un Bir Fantezisi",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 179,
+    "title": "Drakula",
+    "author": "Bram Stroker",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 180,
+    "title": "Dublinliler",
+    "author": "James Joyce",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 181,
+    "title": "Dünya Bölgeleri Afrika",
+    "author": "Gaye Ertin",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 182,
+    "title": "Dünya Bölgeleri Amerika",
+    "author": "Hüsniye Doldur",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 183,
+    "title": "Dünya Bölgeleri Asya",
+    "author": "Ayşenur Timor",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 184,
+    "title": "Dünya Bölgeleri Avrupa",
+    "author": "Hüsniye Doldur",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 185,
+    "title": "Dünya Harikalarını Keşfedin",
+    "author": "Kolektif",
+    "publisher": "Readers Digest"
+  },
+  {
+    "id": 186,
+    "title": "Dünyalar Savaşı",
+    "author": "H. G. Wells",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 187,
+    "title": "Dünyamızı Değiştiren On İki Salgın Hastalık",
+    "author": "Irwin W. Sherman",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 188,
+    "title": "Dünyanın Başladığı Pencere",
+    "author": "Goce Smilevski",
+    "publisher": "Nora"
+  },
+  {
+    "id": 189,
+    "title": "Dünyanın Çehresinin Değiştiren Seyahatler",
+    "author": "Peter Aughton",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 190,
+    "title": "Dünyanın Hakimi",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 191,
+    "title": "Dünyanın Ucundaki Fener",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 192,
+    "title": "Düşkün Derviş",
+    "author": "Aleksandros Papadiamantis",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 193,
+    "title": "Düşüncenin Coğrafyası",
+    "author": "Richard E. Nisbett",
+    "publisher": "Varlık"
+  },
+  {
+    "id": 194,
+    "title": "Ebül-Fida Coğrafyası",
+    "author": "Ebül-Fida",
+    "publisher": "Yeditepe"
+  },
+  {
+    "id": 195,
+    "title": "Ego",
+    "author": "Ayn Rand",
+    "publisher": "Pegasus"
+  },
+  {
+    "id": 196,
+    "title": "Ekonomik Coğrafya",
+    "author": "Erol Tümertekin ve Nazmiye Özgüç",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 197,
+    "title": "Ekonomik Coğrafya'ya Giriş",
+    "author": "Mesut Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 198,
+    "title": "Ekonomik Faaliyetler",
+    "author": "Özlem Sertkaya Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 199,
+    "title": "Ekosistem Coğrafyası",
+    "author": "Meral Avcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 200,
+    "title": "Eleştirel Düşünme Kılavuzu",
+    "author": "Tracy Bowell ve Gary Kemp",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 201,
+    "title": "Elon Musk",
+    "author": "Derleme",
+    "publisher": "Zeplin"
+  },
+  {
+    "id": 202,
+    "title": "Elveda ve Bütün O Balıklar İçin Teşekkürler",
+    "author": "Douglas Adams",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 203,
+    "title": "En Çok Kendisine Yabancıdır İnsan",
+    "author": "Marquis De Sade",
+    "publisher": "Zeplin"
+  },
+  {
+    "id": 204,
+    "title": "En Hakiki Mürşit",
+    "author": "Cem Say",
+    "publisher": "Doğan"
+  },
+  {
+    "id": 205,
+    "title": "En İyi İlacı Ararken",
+    "author": "Arthur Bank",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 206,
+    "title": "Enerji Kaynakları",
+    "author": "Hayati Doğanay ve Ogün Coşkun",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 207,
+    "title": "Enerji ve Alternatif Enerji Kaynakları",
+    "author": "İsmet Akova",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 208,
+    "title": "Eski Dünya Seyahatnamesi",
+    "author": "İlber Ortaylı",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 209,
+    "title": "Esrarengiz Güzellikler",
+    "author": "John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 210,
+    "title": "Esrarlı Ada",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 211,
+    "title": "Evrenin Sonundaki Restoran",
+    "author": "Douglas Adams",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 212,
+    "title": "Evrenin Zarafeti",
+    "author": "Brian Greene",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 213,
+    "title": "Evrim",
+    "author": "Brian Charlesworth ve Deborah Charlesworth",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 214,
+    "title": "Evrim",
+    "author": "Tamer Kaya",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 215,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publisher": "İthaki"
+  },
+  {
+    "id": 216,
+    "title": "Farklı Türler",
+    "author": "John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 217,
+    "title": "Fatih Robur",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 218,
+    "title": "Felatun Bey ve Rakım Efendi",
+    "author": "Ahmet Mithat Efendi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 219,
+    "title": "Felsefe",
+    "author": "Edward Craig",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 220,
+    "title": "Felsefenin Kısa Tarihi",
+    "author": "Nogay Kerimoğlu",
+    "publisher": "Kamer"
+  },
+  {
+    "id": 221,
+    "title": "Fizik Üzerine Yedi Kısa Ders",
+    "author": "Carlo Rovelli",
+    "publisher": "Tellekt"
+  },
+  {
+    "id": 222,
+    "title": "Fiziki Coğrafya'da Araştırma Yöntemleri ve Teknikler",
+    "author": "Kolektif",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 223,
+    "title": "Fiziki Coğrafya'ya Giriş",
+    "author": "Tolga Görüm ve Cengiz Yıldırım",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 224,
+    "title": "Fotogrametri",
+    "author": "Fevzi Karslı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 225,
+    "title": "Frankesntein",
+    "author": "Mary Shelley",
+    "publisher": "İthaki"
+  },
+  {
+    "id": 226,
+    "title": "Fransa Yolu",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 227,
+    "title": "Freud Bu İşe Ne Derdi",
+    "author": "Sarah Tomley",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 228,
+    "title": "Garip Eğriler, Tavşanları Saymak ve Diğer Matematiksel Keşifler",
+    "author": "Keith Ball",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 229,
+    "title": "Gaziantep Vilayeti'nin Sıhhi ve İçtimai Coğrafyası",
+    "author": "Süleyman Faik",
+    "publisher": "Çizgi"
+  },
+  {
+    "id": 230,
+    "title": "Geç Ortaçağ Döneminde Pamfilya, Pisidya ve Likyanın Tarihi Coğrafyası",
+    "author": "Barbara Flemming",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 231,
+    "title": "Geçmişe Yolculuk",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 232,
+    "title": "Geleceği Değiştiren Dokuz Algoritma",
+    "author": "John McCormick",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 233,
+    "title": "Genel Kartografya 1",
+    "author": "Turgut Bilgin",
+    "publisher": "Filiz"
+  },
+  {
+    "id": 234,
+    "title": "Genel Kartografya 2",
+    "author": "Turgut Bilgin",
+    "publisher": "Filiz"
+  },
+  {
+    "id": 235,
+    "title": "Genel Klimatoloji",
+    "author": "Oğuz Erol",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 236,
+    "title": "Genel Klimatoloji",
+    "author": "Murat Türkeş",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 237,
+    "title": "Genel Sağlık",
+    "author": "Kolektif",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 238,
+    "title": "Gezi - Hatıra",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 239,
+    "title": "Gizli Servisler",
+    "author": "Mahir Kaynak ve Ömer Lütfi Mete",
+    "publisher": "Profil"
+  },
+  {
+    "id": 240,
+    "title": "Göç ve  Kültür",
+    "author": "İsmail Doğan",
+    "publisher": "Bilge"
+  },
+  {
+    "id": 241,
+    "title": "Göklerin Matematiği",
+    "author": "Glen Van Brummelen",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 242,
+    "title": "Göksel Kürelerin Devinimi Üzerine",
+    "author": "Nicolaus Copernicus",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 243,
+    "title": "Gökyüzü Atlası",
+    "author": "Kolektif",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 244,
+    "title": "Gökyüzü Tarihi",
+    "author": "Bruce Stephenson - Marvin Bolt - Anna Felicity Friedman",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 245,
+    "title": "Gökyüzü ve Bilim Tarihi",
+    "author": "Donald R. Hill",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 246,
+    "title": "Görelilik Teorisi",
+    "author": "James Clerk Maxwell",
+    "publisher": "Gece Kitaplığı"
+  },
+  {
+    "id": 247,
+    "title": "Görünmez Adam",
+    "author": "H. G. Wells",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 248,
+    "title": "Gösteri Peygamberi",
+    "author": "Chuck Palahniuk",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 249,
+    "title": "Güçlü Titreşimler",
+    "author": "Barry Parker",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 250,
+    "title": "Gündelik Hayatımızın Tarihi",
+    "author": "Kudret Emiroğlu",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 251,
+    "title": "Gündelik Şeylerin Tasarımı",
+    "author": "Don Norman",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 252,
+    "title": "Güneşlenenler ve Yıkananlar",
+    "author": "Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 253,
+    "title": "Güney Yıldızı",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 254,
+    "title": "Günlük Hayatın Psikopatolojisi",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 255,
+    "title": "Gurebahane-i Laklakan",
+    "author": "Ahmet Haşim",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 256,
+    "title": "Güzel Sarı Tuna",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 257,
+    "title": "Güzellik ve Başarı",
+    "author": "Ken Preston-Mafham",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 258,
+    "title": "Hakikat Bürosu (Dünyanın Sonu)",
+    "author": "James Tynion",
+    "publisher": "Kayıp Kıta"
+  },
+  {
+    "id": 259,
+    "title": "Hakikat Bürosu (Tepedeki Şehir)",
+    "author": "James Tynion",
+    "publisher": "Kayıp Kıta"
+  },
+  {
+    "id": 260,
+    "title": "Hakkari'de Bir Mevsim",
+    "author": "Ferit Edgü",
+    "publisher": "Everest"
+  },
+  {
+    "id": 261,
+    "title": "Harita Bilgisi",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 262,
+    "title": "Harita Üzerinde",
+    "author": "Simon Garfield",
+    "publisher": "Domingo"
+  },
+  {
+    "id": 263,
+    "title": "Hasan Ali Yücel ve Türk Aydınlanması",
+    "author": "A. M. Celal Şengör",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 264,
+    "title": "Haşırt Dı Bilekbord",
+    "author": "Zafer Algöz",
+    "publisher": "İnkılap"
+  },
+  {
+    "id": 265,
+    "title": "Havadaki Köy",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 266,
+    "title": "Havana'daki Adamımız",
+    "author": "Graham Greene",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 267,
+    "title": "Hawking",
+    "author": "Derleme",
+    "publisher": "Zeplin"
+  },
+  {
+    "id": 268,
+    "title": "Hayalet Uçak",
+    "author": "Bear Grylls",
+    "publisher": "Portakal"
+  },
+  {
+    "id": 269,
+    "title": "Hayat, Evren ve Her Şey",
+    "author": "Douglas Adams",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 270,
+    "title": "Hayatın Mucizeleri",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 271,
+    "title": "Hayatta Kalma Kılavuzu",
+    "author": "Bear Grylls",
+    "publisher": "Portakal"
+  },
+  {
+    "id": 272,
+    "title": "Hayvan Çiftliği",
+    "author": "George Orwell",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 273,
+    "title": "Her Yönüyle Siber Savaş",
+    "author": "Hasan Çiftçi",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 274,
+    "title": "Herkes Kuantum Bilgisayım",
+    "author": "Chris Bernhardt",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 275,
+    "title": "Hidrografya",
+    "author": "Hasan Özdemir",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 276,
+    "title": "Hidrografyanın Ana Çizgileri 1",
+    "author": "Yıldız Hoşgören",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 277,
+    "title": "Hidrolik ve Su Kaynakları Mühendisliğinde FLOW-3D",
+    "author": "Redvan Ghasemlounia",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 278,
+    "title": "Hidroloji",
+    "author": "Mehmetçik Bayazıt",
+    "publisher": "İstanbul Teknik Üniversitesi İnşaat Fakültesi Matbaası"
+  },
+  {
+    "id": 279,
+    "title": "Hidroloji Uygulamaları",
+    "author": "Mehmetçik Bayazıt, İlhan Avcı, Zekai Şen",
+    "publisher": "İstanbul Teknik Üniversitesi İnşaat Fakültesi Matbaası"
+  },
+  {
+    "id": 280,
+    "title": "Hidrolojide Veri , İşlem, Yorumlama ve Tasarım",
+    "author": "Zekai Şen",
+    "publisher": "Su Vakfı Yayınları"
+  },
+  {
+    "id": 281,
+    "title": "Hidrolojinin Temelleri",
+    "author": "Tim Davie",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 282,
+    "title": "Hikayeler 1",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 283,
+    "title": "Hikayeler 2",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 284,
+    "title": "Homo Ludens",
+    "author": "Johan Huizinga",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 285,
+    "title": "İdeal Devlet",
+    "author": "Farabi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 286,
+    "title": "İkanın Psikolojisi",
+    "author": "Robert B. Cialdini",
+    "publisher": "MediaCat"
+  },
+  {
+    "id": 287,
+    "title": "İki Büyük Dünya Sistemi Hakkında Diyalog",
+    "author": "Galileo Galilei",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 288,
+    "title": "İki Yıl Okul Tatili",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 289,
+    "title": "İktisat Terimleri Sözlüğü",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 290,
+    "title": "İlimlerin Sayımı",
+    "author": "Farabi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 291,
+    "title": "İlişmek",
+    "author": "Hakan Akdoğan",
+    "publisher": "Eksik Parça"
+  },
+  {
+    "id": 292,
+    "title": "İlk Üç Dakika",
+    "author": "Steven Weinberg",
+    "publisher": "SİA"
+  },
+  {
+    "id": 293,
+    "title": "İmparatorluğun Son Nefesi",
+    "author": "İlber Ortaylı",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 294,
+    "title": "İmparatorluktan Gelen Bir Ulus",
+    "author": "Michael E. Meeker",
+    "publisher": "İstanbul Bilgi Üniversitesi Yayınları"
+  },
+  {
+    "id": 295,
+    "title": "İnatçı Keraban",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 296,
+    "title": "İnsan Doğasını Anlamak",
+    "author": "Alfred Adler",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 297,
+    "title": "İnternetin Geçmişi ve Dijital Gelecek",
+    "author": "Johnny Ryan",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 298,
+    "title": "Işığın Öyküsü",
+    "author": "Hüseyin Gazi Topdemir",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 299,
+    "title": "Issız Korsan Adaları",
+    "author": "Anita Ganeri",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 300,
+    "title": "İstanbul",
+    "author": "Edmondo De Amicis",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 301,
+    "title": "İstanbul ve Boğaziçi",
+    "author": "Joseph Von Hammer",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 302,
+    "title": "İstatistik",
+    "author": "Sema Ulutürk Akman",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 303,
+    "title": "İyi Köpekler Kötü Köpekler ve Kuzey Toprakları",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 304,
+    "title": "Jangada",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 305,
+    "title": "Japonya",
+    "author": "Lafcaido Hearn",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 306,
+    "title": "Jeofizik",
+    "author": "Ferhat Özcep",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 307,
+    "title": "Jeolog Defteri (El Yazması)",
+    "author": "",
+    "publisher": "MTA"
+  },
+  {
+    "id": 308,
+    "title": "Jeomorfoloji",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 309,
+    "title": "Jeomorfoloji 1",
+    "author": "Sırrı  Erinç",
+    "publisher": "DR"
+  },
+  {
+    "id": 310,
+    "title": "Jeomorfoloji 2",
+    "author": "Sırrı  Erinç",
+    "publisher": "DR"
+  },
+  {
+    "id": 311,
+    "title": "Jeomorfoloji Terimleri Sözlüğü",
+    "author": "M. Yıldız Hoşgören",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 312,
+    "title": "Jeomorfoloji ve İnsan",
+    "author": "Tevfik Erkal ve Barış Taş",
+    "publisher": "Yeditepe"
+  },
+  {
+    "id": 313,
+    "title": "Jeomorfolojinin Ana Çizgileri 1",
+    "author": "Yıldız Hoşgören",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 314,
+    "title": "Jeomorfolojinin Ana Çizgileri 1 (1983)",
+    "author": "Yıldız Hoşgören",
+    "publisher": "İstanbul Üniversitesi Edebiyat Fakültesi Yayınları"
+  },
+  {
+    "id": 315,
+    "title": "Jeomorfolojinin Ana Çizgileri 2",
+    "author": "Yıldız Hoşgören",
+    "publisher": "Çantay"
+  },
+  {
+    "id": 316,
+    "title": "Jeomorfolojinin Temelleri",
+    "author": "Richard John Huggett",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 317,
+    "title": "Jeopolitik",
+    "author": "Alexandre Defay",
+    "publisher": "Dost"
+  },
+  {
+    "id": 318,
+    "title": "John Barleycorn",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 319,
+    "title": "Kadim Dünya Coğrafyası",
+    "author": "El-İdrisi",
+    "publisher": "Yeditepe"
+  },
+  {
+    "id": 320,
+    "title": "Kağnı",
+    "author": "Sabahattin Ali",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 321,
+    "title": "Kalk Bi Dopamin Demle",
+    "author": "Serkan ve M. Ali Karaismailoğlu",
+    "publisher": "Ortapia"
+  },
+  {
+    "id": 322,
+    "title": "Kanatlı Suikastçiler",
+    "author": "John Woodward",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 323,
+    "title": "Kanunların Ruhu Üzerine",
+    "author": "Montesquıeu",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 324,
+    "title": "Kaos Teorisi",
+    "author": "Etienne Ghys",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 325,
+    "title": "Kaptan Antiferin Harikulade Maceraları",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 326,
+    "title": "Kaptan Grant’ın Çocukları",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 327,
+    "title": "Kaptan Hatteras'ın Yolculukları ve Maceraları",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 328,
+    "title": "Kara Delikler",
+    "author": "Stephen Hawking",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 329,
+    "title": "Kara Delikler ve Bebek Evrenler",
+    "author": "Stephen Hawking",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 330,
+    "title": "Karabibik",
+    "author": "Nabizade Nazım",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 331,
+    "title": "Karadelik",
+    "author": "Marcia Bartusiak",
+    "publisher": "Koç Üniversitesi Yayınları"
+  },
+  {
+    "id": 332,
+    "title": "Karadelik Bir Delik Değildir",
+    "author": "Carolyn Cinami DeCristofano",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 333,
+    "title": "Karadelikten Gelen Ölüm",
+    "author": "Neil DeGrasse Tyson",
+    "publisher": "Geoturkca"
+  },
+  {
+    "id": 334,
+    "title": "Karadeniz Kıyı Kentleri Tarihi",
+    "author": "Feridun M. Emecen",
+    "publisher": "Turkuvaz"
+  },
+  {
+    "id": 335,
+    "title": "Karikatürler 1",
+    "author": "Kubilay Odabaş",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 336,
+    "title": "Karikatürler 2",
+    "author": "Kubilay Odabaş",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 337,
+    "title": "Karikatürler 3",
+    "author": "Kubilay Odabaş",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 338,
+    "title": "Karpatlar Şatosu",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 339,
+    "title": "Kartoğrafya",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 340,
+    "title": "Kavgam",
+    "author": "Adolf Hitler",
+    "publisher": "Yason"
+  },
+  {
+    "id": 341,
+    "title": "Kavşak",
+    "author": "Norm Konyu",
+    "publisher": "Kayıp Kıta"
+  },
+  {
+    "id": 342,
+    "title": "Kaya",
+    "author": "Kubilay Odabaş",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 343,
+    "title": "Kaya Sakinleri",
+    "author": "Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 344,
+    "title": "Kayı 1",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 345,
+    "title": "Kayı 10",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 346,
+    "title": "Kayı 11",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 347,
+    "title": "Kayı 2",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 348,
+    "title": "Kayı 3",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 349,
+    "title": "Kayı 4",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 350,
+    "title": "Kayı 5",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 351,
+    "title": "Kayı 6",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 352,
+    "title": "Kayı 7",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 353,
+    "title": "Kayı 8",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 354,
+    "title": "Kayı 9",
+    "author": "Ahmet Şimşirgil",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 355,
+    "title": "Kayıp Dünyalar Atlası",
+    "author": "Roberto Giacobbo",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 356,
+    "title": "Kayıp Gül",
+    "author": "Serdar Özkan",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 357,
+    "title": "Kayıp Tarihimiz",
+    "author": "Taha Akyol ve Kolektif",
+    "publisher": "Yakın Plan"
+  },
+  {
+    "id": 358,
+    "title": "Kayıp Tarihimiz 2",
+    "author": "Taha Akyol ve Kolektif",
+    "publisher": "Yakın Plan"
+  },
+  {
+    "id": 359,
+    "title": "Kelile ve Dimne",
+    "author": "Beydeba",
+    "publisher": "İskele Yayıncılık"
+  },
+  {
+    "id": 360,
+    "title": "Kelimenin Ham Anlamıyla",
+    "author": "Ali İhsan Varol",
+    "publisher": "Doğan Kitap"
+  },
+  {
+    "id": 361,
+    "title": "Kemer Sıkmak",
+    "author": "Mark Blyth",
+    "publisher": "Koç Üniversitesi Yayınları"
+  },
+  {
+    "id": 362,
+    "title": "Ken Taç Dis",
+    "author": "Zafer Algöz",
+    "publisher": "İnkılap"
+  },
+  {
+    "id": 363,
+    "title": "Kendi Evrimimizi Yönetmek",
+    "author": "Juan Enriquez ve Steve Gullans",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 364,
+    "title": "Kent Bilgi Sistemleri",
+    "author": "Volkan Yıldırım",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 365,
+    "title": "Keş On Dı Teybıl",
+    "author": "Zafer Algöz",
+    "publisher": "İnkılap"
+  },
+  {
+    "id": 366,
+    "title": "Ket Vurma ve Korku",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 367,
+    "title": "Kim Neyi Ne Zaman İcat  Etti",
+    "author": "David Ellyard",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 368,
+    "title": "Kirpi Mesafesi",
+    "author": "Hakan Akdoğan",
+    "publisher": "Eksik Parça"
+  },
+  {
+    "id": 369,
+    "title": "Kırsal Coğrafya",
+    "author": "Süheyla Balcı Akova",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 370,
+    "title": "Kısa İklim Tarihi",
+    "author": "Emmanuel Le Roy Ladurie",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 371,
+    "title": "Kitabı Bahriye",
+    "author": "Piri Reis",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 372,
+    "title": "Kıtlık / Çok Aza Sahip Olmanın Başka Anlamları",
+    "author": "Sendhil Mullainathan, Eldar Shafir",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 373,
+    "title": "Kıymetli Taşlar ve Metaller Kitabı",
+    "author": "El-Biruni",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 374,
+    "title": "Kızgın Yanardağlar",
+    "author": "Anita Ganeri",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 375,
+    "title": "Kızıl",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 376,
+    "title": "Kızıl Veba",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 377,
+    "title": "Klimatoloji",
+    "author": "Barbaros Gönençgil",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 378,
+    "title": "Klimatoloji (Atmosfer ve Sıcaklık)",
+    "author": "Barbaros Gönençgil",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 379,
+    "title": "Köklerimiz",
+    "author": "Malcomx",
+    "publisher": "Beyan"
+  },
+  {
+    "id": 380,
+    "title": "Kömür Kentin Sırları",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 381,
+    "title": "Kör Baykuş",
+    "author": "Sadık Hidayet",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 382,
+    "title": "Korku",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 383,
+    "title": "Kosmos - Dünyada Akıllı Yaşam",
+    "author": "Ann Druyan",
+    "publisher": "National Geographic"
+  },
+  {
+    "id": 384,
+    "title": "Kosmos - İnsanlığın Olgunluk Çağları",
+    "author": "Ann Druyan",
+    "publisher": "National Geographic"
+  },
+  {
+    "id": 385,
+    "title": "Kosmos - Kozmik Beyin Haritası",
+    "author": "Ann Druyan",
+    "publisher": "National Geographic"
+  },
+  {
+    "id": 386,
+    "title": "Kosmos - Yıldızlara Uzanan Merdiven",
+    "author": "Ann Druyan",
+    "publisher": "National Geographic"
+  },
+  {
+    "id": 387,
+    "title": "Kötü Tavsiye",
+    "author": "Paul A. Offit",
+    "publisher": "Sabri Ülker Vakfı Yayınları"
+  },
+  {
+    "id": 388,
+    "title": "Kozmoloji",
+    "author": "Peter Coles",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 389,
+    "title": "Kozmos",
+    "author": "Carl Sagan",
+    "publisher": "Altın Kitaplar"
+  },
+  {
+    "id": 390,
+    "title": "Kozmostan Kaosa",
+    "author": "Peter Coles",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 391,
+    "title": "Kuantum Ansiklopedik Sözlük",
+    "author": "John Gribbin",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 392,
+    "title": "Kuaterner Coğrafyası",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 393,
+    "title": "Küçük Prens",
+    "author": "Antonie De Saint-Exupry",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 394,
+    "title": "Küçük Şeyler",
+    "author": "Samipaşazade Sezai",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 395,
+    "title": "Kültürel Coğrafya İnsan-Kültür-Mekan",
+    "author": "Selma Akay Ertürk",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 396,
+    "title": "Küresel İklim Değişikliği ve Atmosferik Afetler",
+    "author": "Barbaros Gönençgil",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 397,
+    "title": "Küresel Siyaset",
+    "author": "Andrew Heywood",
+    "publisher": "Adres"
+  },
+  {
+    "id": 398,
+    "title": "Küreselleşme",
+    "author": "Joseph E. Stiglitz",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 399,
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 400,
+    "title": "Kürkler Ülkesi",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 401,
+    "title": "Kutagdu Bilig",
+    "author": "Yusuf Has Hacip",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 402,
+    "title": "Kutuplarda İnecek Var",
+    "author": "Anita Ganeri",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 403,
+    "title": "Kuyucaklı Yusuf",
+    "author": "Sabahattin Ali",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 404,
+    "title": "Leonardo Olmak",
+    "author": "Mike Lankford",
+    "publisher": "Nemesis"
+  },
+  {
+    "id": 405,
+    "title": "Macellanyada",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 406,
+    "title": "Marco Polo Seyahatname",
+    "author": "Marco Polo",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 407,
+    "title": "Martin Eden",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 408,
+    "title": "Marvel Evreni Tarihi",
+    "author": "Javier Rodriguez ve Alvaro Lopez",
+    "publisher": "Arkabahçe"
+  },
+  {
+    "id": 409,
+    "title": "Matematiğin Aydınlık Dünyası",
+    "author": "Ali Sinan Sertöz",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 410,
+    "title": "Matematiksel Bir Doğa Yürüyüşü",
+    "author": "John A. Adam",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 411,
+    "title": "Mathias Sandorf",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 412,
+    "title": "Mecburiyet",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 413,
+    "title": "Medeniyetler Çatışması",
+    "author": "Samuel P. Huntington",
+    "publisher": "Okuyanus"
+  },
+  {
+    "id": 414,
+    "title": "Meleklerin Ateşi",
+    "author": "Bear Grylls",
+    "publisher": "Portakal"
+  },
+  {
+    "id": 415,
+    "title": "Memelilerin Yükselişi ve Saltanatı",
+    "author": "Steve Brusatte",
+    "publisher": "Koç Üniversitesi Yayınları"
+  },
+  {
+    "id": 416,
+    "title": "Meraklı Zihinler",
+    "author": "John Brockman",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 417,
+    "title": "Meriç Nehri Islahı",
+    "author": "Haydar Çoruh",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 418,
+    "title": "Merkezi Yönetimlerde CBS Uygulamaları",
+    "author": "Şenay Güngör",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 419,
+    "title": "Meteor Avı",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 420,
+    "title": "Meyve ve Fındık Kemirgenleri",
+    "author": "Dominic Couzens",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 421,
+    "title": "MikroorganizmalarlaTakım Olmak",
+    "author": "Jeff Lowenfels ve Wayn Lewis",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 422,
+    "title": "Milli Mücadele Dönemi İstihbarat Faaliyetleri",
+    "author": "Serdar Yurtsever",
+    "publisher": "Atatürk Araştırmaları Merkezi"
+  },
+  {
+    "id": 423,
+    "title": "Mimar Koca Sinan",
+    "author": "Afet İnan",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 424,
+    "title": "Mirasçılar",
+    "author": "William Golding",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 425,
+    "title": "Mişel Strogof",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 426,
+    "title": "Mitler, Rüyalar ve Gizemler",
+    "author": "Mircea Eliade",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 427,
+    "title": "Mitolojinin Gücü",
+    "author": "Joseph Campbell ve Bill Moyers",
+    "publisher": "MediaCat"
+  },
+  {
+    "id": 428,
+    "title": "Modern İnsanın Kökeni",
+    "author": "Roger Lewin",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 429,
+    "title": "Mösyö Tristus",
+    "author": "Galip Tekin",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 430,
+    "title": "Mutlu Beyin",
+    "author": "Bahri Karaçay",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 431,
+    "title": "Mutluluğun Kazanılması",
+    "author": "Farabi",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 432,
+    "title": "Nahçıvan Özerk Cumhuriyeti",
+    "author": "Serhat Zaman",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 433,
+    "title": "Nasıl Ölünür",
+    "author": "Emile Zola",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 434,
+    "title": "Ne İçin Yaşıyoruz",
+    "author": "Alfred Adler",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 435,
+    "title": "Ne Zaman Nerede Neden ve Nasıl Oldu",
+    "author": "Kolektif",
+    "publisher": "Readers Digest"
+  },
+  {
+    "id": 436,
+    "title": "Nereden Nereye Bilim",
+    "author": "Anna Claybourne",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 437,
+    "title": "Nereden Nereye Gök Bilimi ve Uzay",
+    "author": "Louie Stowell",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 438,
+    "title": "Nereden Nereye Keşifler",
+    "author": "Anna Claybourne",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 439,
+    "title": "Neredeyse Herşeyin Kökeni",
+    "author": "Graham Lawton",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 440,
+    "title": "Nihayet Çıkmazı",
+    "author": "Galip Tekin",
+    "publisher": "Komik Şeyler"
+  },
+  {
+    "id": 441,
+    "title": "Nikola Tesla",
+    "author": "Derleme",
+    "publisher": "Martı"
+  },
+  {
+    "id": 442,
+    "title": "Nörofelsefe",
+    "author": "Patricia Smith Churchland",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 443,
+    "title": "Nörofelsefe ve Bilinç",
+    "author": "Burçak Özkan",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 444,
+    "title": "Nü Peride",
+    "author": "Hakan Akdoğan",
+    "publisher": "Eksik Parça"
+  },
+  {
+    "id": 445,
+    "title": "Nüfus ve Yerleşme (Spiral cilt)",
+    "author": "Ali Tanoğlu",
+    "publisher": "İstanbul Üniversitesi Yayınları"
+  },
+  {
+    "id": 446,
+    "title": "Nutuk",
+    "author": "Mustafa Kemal Atatürk",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 447,
+    "title": "Öfkeden Çözüme",
+    "author": "Cem Kozlu",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 448,
+    "title": "Öklid'i Okurken",
+    "author": "Ali Sinan Sertöz",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 449,
+    "title": "Olalla",
+    "author": "Robert Louis Stvenson",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 450,
+    "title": "Olaylarla Türkiye Ekonomisi",
+    "author": "Yalın Alpay ve Emre Alkin",
+    "publisher": "Hümanist"
+  },
+  {
+    "id": 451,
+    "title": "Ölçüm Gerçeklik ve Hayal Gücü",
+    "author": "Paul Lockhart",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 452,
+    "title": "Ölmeye Yatmak",
+    "author": "Adalet Ağaoğlu",
+    "publisher": "Everest"
+  },
+  {
+    "id": 453,
+    "title": "Ölüm Makineleri",
+    "author": "John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 454,
+    "title": "Ölümcül Güzellikler",
+    "author": "Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 455,
+    "title": "Ömer'in Çocukluğu",
+    "author": "Muallim Naci",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 456,
+    "title": "On Beş Yaşında Bir Kaptan",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 457,
+    "title": "Orada Saat Kaç",
+    "author": "Serge Gruzinski",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 458,
+    "title": "Orhan Kemal Bibliyografyası",
+    "author": "Kolektif",
+    "publisher": "Nilüfer Belediyesi Kütüphane"
+  },
+  {
+    "id": 459,
+    "title": "Orhan Kemal Öykü Ödülü Seçkisi",
+    "author": "Kolektif",
+    "publisher": "Nilüfer Belediyesi Kütüphane"
+  },
+  {
+    "id": 460,
+    "title": "Orhan Kemal Sempozyumu",
+    "author": "Kolektif",
+    "publisher": "Nilüfer Belediyesi Kütüphane"
+  },
+  {
+    "id": 461,
+    "title": "Osmanlı İmparatorluğu ve Floransa",
+    "author": "Mikail Acıpınar",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 462,
+    "title": "Osmanlı Padişahları",
+    "author": "Ahmet Efe",
+    "publisher": "Vakit"
+  },
+  {
+    "id": 463,
+    "title": "Otostopçunun Galaksi Rehberi",
+    "author": "Douglas Adams",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 464,
+    "title": "Otuz Dokuz Basamak",
+    "author": "Jonh Buchan",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 465,
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "publisher": "MediaCat"
+  },
+  {
+    "id": 466,
+    "title": "Oyun",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 467,
+    "title": "Oz Büyücüsü",
+    "author": "L. Frank Baum",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 468,
+    "title": "Özgür Dağcının El Kitabı",
+    "author": "Anita Ganeri",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 469,
+    "title": "Pal Sokağı Çocukları",
+    "author": "Ferenc Molnar",
+    "publisher": "Kapra"
+  },
+  {
+    "id": 470,
+    "title": "Pamuk İmparatorluğu",
+    "author": "Sven Beckert",
+    "publisher": "Say"
+  },
+  {
+    "id": 471,
+    "title": "Para Üzerine Bir İnceleme",
+    "author": "John Maynard Keynes",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 472,
+    "title": "Paranın Yükselişi",
+    "author": "Niall Ferguson",
+    "publisher": "Yapı Kredi Yayınları"
+  },
+  {
+    "id": 473,
+    "title": "Parlak Fikirler Kitabı",
+    "author": "McLeod Kardeşler",
+    "publisher": "Maya"
+  },
+  {
+    "id": 474,
+    "title": "Persepolis",
+    "author": "Marjane Satrapi",
+    "publisher": "Panama Yayıncılık"
+  },
+  {
+    "id": 475,
+    "title": "Petrol, Su ve İklim",
+    "author": "Catherine Gautier",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 476,
+    "title": "Piri Reis ve Kristof Kolomb Öncesi İslam Haritaları",
+    "author": "Mustafa Kaçar",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 477,
+    "title": "Piri Reis ve Kristof Kolomb Sonrası Türk Haritacılığı",
+    "author": "Svat Soucek",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 478,
+    "title": "Piri Reis'in Hayatı ve Eserleri",
+    "author": "Afet İnan",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 479,
+    "title": "Piyango Bileti",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 480,
+    "title": "Poincare Sanısı / Geometri, Topoloji ve Evrenin Şekli",
+    "author": "Donal O'Shea",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 481,
+    "title": "Postmodern Coğrafyalar",
+    "author": "Edward W. Soja",
+    "publisher": "SEL"
+  },
+  {
+    "id": 482,
+    "title": "Primitif Balıklar",
+    "author": "John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 483,
+    "title": "Problem Çözümüne Giriş 101",
+    "author": "Ken Watanabe",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 484,
+    "title": "Psikoloji",
+    "author": "Gillian Butler ve Freda McManus",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 485,
+    "title": "Rastlantı ve Zorunluluk",
+    "author": "Jacques Monod",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 486,
+    "title": "Robinsonlar Okulu",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 487,
+    "title": "Romalıların Yücelik ve Çöküşünün Nedenleri Üzerine Düşünceler",
+    "author": "Montesquıeu",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 488,
+    "title": "Romanlar",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 489,
+    "title": "Rönesans Sanatı",
+    "author": "Geraldine A. Johnson",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 490,
+    "title": "Rossum'un Evrensel Robotları",
+    "author": "Karel Çapek",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 491,
+    "title": "Ruhsal Çözümleme",
+    "author": "D. H. Lawrence",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 492,
+    "title": "Rüya Yorumları 1",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 493,
+    "title": "Rüya Yorumları 2",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 494,
+    "title": "Saatini Şaşıran Beyin Sosyal Jetlag",
+    "author": "Yavuz Selvi",
+    "publisher": "İndie"
+  },
+  {
+    "id": 495,
+    "title": "Sağlık Coğrafyası",
+    "author": "Ramazan Özey",
+    "publisher": "Aktif"
+  },
+  {
+    "id": 496,
+    "title": "Saha Jeolojisi Çalışma Yöntemleri",
+    "author": "Angela L. Coe",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 497,
+    "title": "Sahil Kuşları",
+    "author": "Euan Dunn ve Derek Niemann",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 498,
+    "title": "Saklı Gerçeklik",
+    "author": "Brian Greene",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 499,
+    "title": "Sanat Tarihi",
+    "author": "Dana Arnold",
+    "publisher": "İKÜ Yayın Evi"
+  },
+  {
+    "id": 500,
+    "title": "Sanayi Çağı",
+    "author": "Hans Freyer",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 501,
+    "title": "Sanayi Coğrafyası",
+    "author": "Mesut Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 502,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "publisher": "Kolektif"
+  },
+  {
+    "id": 503,
+    "title": "Satranç",
+    "author": "Stefan Zweig",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 504,
+    "title": "Seçme Eserler (Dönüşüm, Dava, Milena'ya Mektuplar)",
+    "author": "Franz Kafka",
+    "publisher": "Yakamoz"
+  },
+  {
+    "id": 505,
+    "title": "Şehir Coğrafyası",
+    "author": "Abdullah Uğur ve Alpaslan Aliağaoğlu",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 506,
+    "title": "Şehir Coğrafyası",
+    "author": "İsmet Akova",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 507,
+    "title": "Şehir Coğrafyası 1",
+    "author": "Süha Göney",
+    "publisher": "Beta"
+  },
+  {
+    "id": 508,
+    "title": "Şehir Coğrafyası 2",
+    "author": "Süha Göney",
+    "publisher": "Beta"
+  },
+  {
+    "id": 509,
+    "title": "Sergüzeşt",
+    "author": "Samipaşazade Sezai",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 510,
+    "title": "Ses",
+    "author": "Sabahattin Ali",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 511,
+    "title": "Sessiz Bahar",
+    "author": "Rachel Carson",
+    "publisher": "Palme"
+  },
+  {
+    "id": 512,
+    "title": "Sevgi ve Cinsellik Üzerine",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 513,
+    "title": "Seyir Defterleri",
+    "author": "Kristof Kolomb",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 514,
+    "title": "Şeytan Tozu",
+    "author": "Leo Perutz",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 515,
+    "title": "Şeytanın Çırağı",
+    "author": "Şiro Mamao",
+    "publisher": "İthaki"
+  },
+  {
+    "id": 516,
+    "title": "Sherlock Holmes Bütün Hikayeler 1",
+    "author": "Arthur Conan Doyle",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 517,
+    "title": "Sherlock Holmes Bütün Hikayeler 2",
+    "author": "Arthur Conan Doyle",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 518,
+    "title": "Sherlock Holmes Bütün Romanlar",
+    "author": "Arthur Conan Doyle",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 519,
+    "title": "Sicillere Göre Bursa'da İhtida Hareketleri ve Sosyal Sonuçları",
+    "author": "Osman Çetin",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 520,
+    "title": "Şimdi Sen Düşün",
+    "author": "Tom Standage",
+    "publisher": "İndigo"
+  },
+  {
+    "id": 521,
+    "title": "Sineklerin Tanrısı",
+    "author": "William Golding",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 522,
+    "title": "Sıradışı Canlılar",
+    "author": "Dominic Couzens",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 523,
+    "title": "Sırça Köşk",
+    "author": "Sabahattin Ali",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 524,
+    "title": "Sırlar Atlası",
+    "author": "Gıacobbo Bellini Grossi",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 525,
+    "title": "Siyasi Coğrafya",
+    "author": "Colin Flint ve Peter J. Taylor",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 526,
+    "title": "Siyasi Coğrafya",
+    "author": "Orhan Gürbüz",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 527,
+    "title": "Son Kullanma Tarihi",
+    "author": "Nicholas Temple",
+    "publisher": "Sabri Ülker Vakfı Yayınları"
+  },
+  {
+    "id": 528,
+    "title": "Son Sözü Genom Söyler",
+    "author": "Greg Gibson",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 529,
+    "title": "Sorgulanan Uzay ve Zaman",
+    "author": "Metin Arık, Mustafa Sancak",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 530,
+    "title": "Steve Jobs",
+    "author": "Derleme",
+    "publisher": "Zeplin"
+  },
+  {
+    "id": 531,
+    "title": "Struma Karanlıkta Bir Ninni",
+    "author": "Hakan Akdoğan",
+    "publisher": "Eksik Parça"
+  },
+  {
+    "id": 532,
+    "title": "Su Kaynakları Mühendisliği",
+    "author": "Cevat Erker ve Necati Ağıralioğlu",
+    "publisher": "TKY"
+  },
+  {
+    "id": 533,
+    "title": "Şu Matematik Dedikleri",
+    "author": "Ali Sinan Sertöz",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 534,
+    "title": "Sultanın Korsanları",
+    "author": "Emrah Safa Gürkan",
+    "publisher": "Kronik"
+  },
+  {
+    "id": 535,
+    "title": "Sümer Kral Destanları",
+    "author": "Enmerkar- Lugalbanda",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 536,
+    "title": "Sürgün Gezegeni",
+    "author": "Ursula K. Le Guin",
+    "publisher": "İthaki"
+  },
+  {
+    "id": 537,
+    "title": "Sürünen Etoburlar",
+    "author": "Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 538,
+    "title": "Sürüngenler ve Kanatlılar",
+    "author": "Rod Preston-Mafham",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 539,
+    "title": "Tanzimat'tan  2. Meşrutiyet'e Kadar Anadolu'da Karayolu Ulaşımı",
+    "author": "Emrah Çetin",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 540,
+    "title": "Tarih",
+    "author": "Heredotos",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 541,
+    "title": "Tarih Atlası",
+    "author": "Adam Hart Dawis",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 542,
+    "title": "Tarih Nasıl Yazılır",
+    "author": "Kolektif",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 543,
+    "title": "Tarih Öncesine Ait  Türler",
+    "author": "Valerie Davies ve Chris Mattison",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 544,
+    "title": "Tarihi Coğrafya",
+    "author": "Mehmet Bayartan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 545,
+    "title": "Tarihin Coğrafi Kalbi",
+    "author": "H. J. Mackinder",
+    "publisher": "Doğu Kütüphanesi"
+  },
+  {
+    "id": 546,
+    "title": "Tarım Coğrafyası",
+    "author": "Hayati Doğanay ve Ogün Coşkun",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 547,
+    "title": "Tarım Coğrafyası",
+    "author": "Süheyla Balcı Akova",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 548,
+    "title": "Teknolojinin Evrimi",
+    "author": "George Basalla",
+    "publisher": "DoğuBatı"
+  },
+  {
+    "id": 549,
+    "title": "Termodinamik Tarihine Kısa Bir Bakış",
+    "author": "Ferhat Sarı",
+    "publisher": "Ginko Bilim"
+  },
+  {
+    "id": 550,
+    "title": "Tıp Tarihi",
+    "author": "Kolektif",
+    "publisher": "Khalkedon"
+  },
+  {
+    "id": 551,
+    "title": "Titanik",
+    "author": "Kolektif",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 552,
+    "title": "Toplum Sözleşmesi",
+    "author": "Jean Jacques Rousseau",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 553,
+    "title": "Toplumun McDonaldlaştırılması",
+    "author": "George Ritzer",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 554,
+    "title": "Topografya Ölçme Bilgisi",
+    "author": "Cevat İnal, Ali Ferdi ve Ferruh Yıldız",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 555,
+    "title": "Topoğrafyalar",
+    "author": "Cihan Bayrakdar",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 556,
+    "title": "Toprak Coğrafyası",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 557,
+    "title": "Totem ve Tabu",
+    "author": "Sigmund Freud",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 558,
+    "title": "Trabzon Bab-ı Alisi",
+    "author": "Mustafa Yazıcı",
+    "publisher": "Top-Kar"
+  },
+  {
+    "id": 559,
+    "title": "Trabzon Limanı ve Hinterlandı",
+    "author": "Serkan Doğanay",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 560,
+    "title": "Trabzon Merkez ve İlçelerindeki Önemli Tarihi Yapılar",
+    "author": "Haşim Karpuz",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 561,
+    "title": "Trabzon'da Doğal Afetler",
+    "author": "Fatih Erol ve Mustafa Topsakal",
+    "publisher": "Trabzon Büyükşehir Belediyesi Kültür Yayınları"
+  },
+  {
+    "id": 562,
+    "title": "Tropik Güzeller",
+    "author": "Jonathan Elphick ve Dominic Couzens",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 563,
+    "title": "Tüfek, Mikrop ve Çelik",
+    "author": "Jared Diamond",
+    "publisher": "Pegasus"
+  },
+  {
+    "id": 564,
+    "title": "Tuhaf Işıltı",
+    "author": "Timothy J. Jorgensen",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 565,
+    "title": "Turizm Coğrafyası",
+    "author": "Meral Suna Doğaner",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 566,
+    "title": "Türk Dili Sinema Özel Sayısı",
+    "author": "Kolektif",
+    "publisher": "Türk Dil Kurumu"
+  },
+  {
+    "id": 567,
+    "title": "Türk Dili ve Kompozisyon",
+    "author": "Recep Erdoğan",
+    "publisher": "Marmara"
+  },
+  {
+    "id": 568,
+    "title": "Türkiye Beşeri Coğrafyası",
+    "author": "Hayati Doğanay ve Fatih Orhan",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 569,
+    "title": "Türkiye Beşeri Coğrafyası",
+    "author": "Özlem Sertkaya Doğan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 570,
+    "title": "Türkiye Beşeri ve İktisadi Coğrafyası",
+    "author": "Kolektif",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 571,
+    "title": "Türkiye Coğrafyası",
+    "author": "Marcel Bazin ve Stephane De Tapia",
+    "publisher": "İletişim"
+  },
+  {
+    "id": 572,
+    "title": "Türkiye Cumhuriyeti Tarihi",
+    "author": "Kolektif",
+    "publisher": "Dora"
+  },
+  {
+    "id": 573,
+    "title": "Türkiye Cumhuriyeti Tarihi 1",
+    "author": "Durmuş Yalçın",
+    "publisher": "Atatürk Araştırmaları Merkezi"
+  },
+  {
+    "id": 574,
+    "title": "Türkiye Cumhuriyeti Tarihi 2",
+    "author": "Durmuş Yalçın",
+    "publisher": "Atatürk Araştırmaları Merkezi"
+  },
+  {
+    "id": 575,
+    "title": "Türkiye Cumhuriyeti ve Türk Devrimi",
+    "author": "Afet İnan",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 576,
+    "title": "Türkiye Fiziki Coğrafyası",
+    "author": "Barbaros Gönençgil",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 577,
+    "title": "Türkiye İç Bölgeleri",
+    "author": "Meral Suna Doğaner",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 578,
+    "title": "Türkiye Kıyı Bölgeleri",
+    "author": "Meral Suna Doğaner",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 579,
+    "title": "Türkiye Mucizesi İçin",
+    "author": "Cem Kozlu",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 580,
+    "title": "Türkiye Tarım Coğrafyası",
+    "author": "Muzaffer Bakırcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 581,
+    "title": "Türkiye Turizm Coğrafyası",
+    "author": "Hayati Doğanay ve Serhat Zaman",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 582,
+    "title": "Türkiye Yer Adları Sözlüğü",
+    "author": "Sevan Nişanyan",
+    "publisher": "Liberus"
+  },
+  {
+    "id": 583,
+    "title": "Türkiye'de Ekstrem Kurak ve Nemli Dönemler",
+    "author": "Mehmet Ali Çelik",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 584,
+    "title": "Türkiye'de Ulaşım Ağları",
+    "author": "Ömer Faruk İncili ve İlhan Oğuz Akdemir",
+    "publisher": "Kriter"
+  },
+  {
+    "id": 585,
+    "title": "Türkiye'nin 200 Yıllık İktisadi Tarihi",
+    "author": "Şevket Pamuk",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 586,
+    "title": "Türkiye'nin Ağaçları Albümü Çiçekli Ağaçlar",
+    "author": "Işıl Erverdi",
+    "publisher": "Kumdan Kale"
+  },
+  {
+    "id": 587,
+    "title": "Türkiye'nin Ağaçları Albümü İğne Yapraklı Ağaçlar",
+    "author": "Işıl Erverdi",
+    "publisher": "Kumdan Kale"
+  },
+  {
+    "id": 588,
+    "title": "Türkiye'nin Ağaçları Albümü Meyve Ağaçları",
+    "author": "Işıl Erverdi",
+    "publisher": "Kumdan Kale"
+  },
+  {
+    "id": 589,
+    "title": "Türkiye'nin Ağaçları Albümü Yapraklı Ağaçlar",
+    "author": "Işıl Erverdi",
+    "publisher": "Kumdan Kale"
+  },
+  {
+    "id": 590,
+    "title": "Türkiye'nin Ağaçları ve Çalıları",
+    "author": "Necati Güvenç Mamıkoğlu",
+    "publisher": "Kırmızıkedi"
+  },
+  {
+    "id": 591,
+    "title": "Türkiye'nin Ekolojik Bölgeleri",
+    "author": "Meral Avcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 592,
+    "title": "Türkiye'nin Hukuk Serüveni",
+    "author": "Taha Akyol",
+    "publisher": "Doğan"
+  },
+  {
+    "id": 593,
+    "title": "Türkiye'nin NATO'ya Girişi",
+    "author": "Mehmet Saray",
+    "publisher": "Atatürk Araştırmaları Merkezi"
+  },
+  {
+    "id": 594,
+    "title": "Türkiye'nin Taksimi",
+    "author": "Harry N. Howard",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 595,
+    "title": "Türlerin Kökeni",
+    "author": "Charles Darwin",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 596,
+    "title": "Üç Deniz Ötesine Seyahat",
+    "author": "Afanasiy Nikitin",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 597,
+    "title": "Üç Rus veÜç İngilizin Güney Afrika Serüvenleri",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 598,
+    "title": "Ücra Adalar Atlası",
+    "author": "Judith Schalansky",
+    "publisher": "Kırmızıkedi"
+  },
+  {
+    "id": 599,
+    "title": "Uçsuz Bucaksız Çöller",
+    "author": "Anita Ganeri",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 600,
+    "title": "Ulaşım Coğrafyası",
+    "author": "Muzaffer Bakırcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 601,
+    "title": "Ulaşım Sistemlerinin Mekansal Analizi",
+    "author": "Muzaffer Bakırcı",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 602,
+    "title": "Uluğbey",
+    "author": "Gleb Golubev",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 603,
+    "title": "Üniversite",
+    "author": "Henry Rosovsky",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 604,
+    "title": "Ütopia",
+    "author": "Thomas More",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 605,
+    "title": "Ütopyayı Hayata Geçirmek",
+    "author": "Rosemary Wakeman",
+    "publisher": "Koç Üniversitesi Yayınları"
+  },
+  {
+    "id": 606,
+    "title": "Uygulamalı Hidrografya",
+    "author": "İbrahim Atalay",
+    "publisher": "Ege Üniversitesi Yayınları"
+  },
+  {
+    "id": 607,
+    "title": "Uygulamalı Hidrolik ve Hidroloji",
+    "author": "Harun Yaşar Kutoğlu",
+    "publisher": "MEB"
+  },
+  {
+    "id": 608,
+    "title": "Uzaktan Algılama",
+    "author": "Hasan Özdemir",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 609,
+    "title": "Uzaktan Algılama ve Görüntü Yorumlama",
+    "author": "Thomas M. Lillesand, Ralph W. Kiefer ve Jonathan W. Chipman",
+    "publisher": "Palme"
+  },
+  {
+    "id": 610,
+    "title": "Uzman Türler",
+    "author": "Amy-Jane Beer ve Ken Preston-Mafham",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 611,
+    "title": "Vahşetin Çağrısı",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 612,
+    "title": "Varlık ve Piçlik",
+    "author": "Hakan Akdoğan",
+    "publisher": "Eksik Parça"
+  },
+  {
+    "id": 613,
+    "title": "Vatan Yahut Silistre",
+    "author": "Namık Kemal",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 614,
+    "title": "Veba Yılı Günlüğü",
+    "author": "Daniel Defoe",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 615,
+    "title": "Vejetasyon Coğrafyası (Spiral cilt)",
+    "author": "Sırrı  Erinç",
+    "publisher": "İstanbul Üniversitesi Yayınları"
+  },
+  {
+    "id": 616,
+    "title": "Veri Tabanı ve Konumsal Veri Tabanı Uygulamaları",
+    "author": "Ahmet Şahap",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 617,
+    "title": "Veri Tabanlarına Giriş",
+    "author": "Gökhan Turan",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 618,
+    "title": "Virüs Gezegeni",
+    "author": "Carl Zimmer",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 619,
+    "title": "Vladimir Vladimiroviç Putin",
+    "author": "Cenk Başlamış ve Okay Deprem",
+    "publisher": "Doğan"
+  },
+  {
+    "id": 620,
+    "title": "Volga",
+    "author": "Lou Andreas Salome",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 621,
+    "title": "Wilhem Storitz'in Sırrı",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 622,
+    "title": "Yakın Dönem Türk Basın Tarihi",
+    "author": "Hıfzı Topuz - Recep Yaşar",
+    "publisher": "Notabene"
+  },
+  {
+    "id": 623,
+    "title": "Yakın Tarihin Gerçekleri",
+    "author": "İlber Ortaylı",
+    "publisher": "Timaş"
+  },
+  {
+    "id": 624,
+    "title": "Yapay Zeka İş Başında",
+    "author": "Bernard Marr ve Matt Ward",
+    "publisher": "MediaCat"
+  },
+  {
+    "id": 625,
+    "title": "Yapısal Jeomorfoloji",
+    "author": "Tevfik Erkal",
+    "publisher": "PegemAkademi"
+  },
+  {
+    "id": 626,
+    "title": "Yaratıcı Özgüven",
+    "author": "Tom Kelley ve David Kelley",
+    "publisher": "Optimist"
+  },
+  {
+    "id": 627,
+    "title": "Yarının Bahçe Kentleri",
+    "author": "Ebenezer Howard",
+    "publisher": "Daimon"
+  },
+  {
+    "id": 628,
+    "title": "Yasal ve Bilimsel Boyutlarıyla Kıyı",
+    "author": "Hüseyin Turoğlu - Hakan Yiğitbaşıoğlu",
+    "publisher": "Jeomorfoloji Derneği Yayınları"
+  },
+  {
+    "id": 629,
+    "title": "Yaşam Bilgisi",
+    "author": "Alfred Adler",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 630,
+    "title": "Yaşamın Sırrı DNA",
+    "author": "Bahri Karaçay",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 631,
+    "title": "Yaşamla İlgili Sorunlar",
+    "author": "Alfred Adler",
+    "publisher": "Lilith"
+  },
+  {
+    "id": 632,
+    "title": "Yaşar Ne Yaşar Ne Yaşamaz",
+    "author": "Aziz Nesin",
+    "publisher": "Nesin Yayınevi"
+  },
+  {
+    "id": 633,
+    "title": "Yassıada'da Trabzon Temsilcileri",
+    "author": "Zehra Aslan",
+    "publisher": "Trabzon Büyükşehir Belediyesi Kültür Yayınları"
+  },
+  {
+    "id": 634,
+    "title": "Yemeğin Psikopolitikası",
+    "author": "Mihalis Mentinis",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 635,
+    "title": "Yeni Kapitalizmin Kültürü",
+    "author": "Richard Sennett",
+    "publisher": "Ayrıntı"
+  },
+  {
+    "id": 636,
+    "title": "Yeni Ortadoğu Haritası",
+    "author": "Mahir Kaynak ve Emin Gürses",
+    "publisher": "Profil"
+  },
+  {
+    "id": 637,
+    "title": "Yeni Tarım Düzeni",
+    "author": "Ali Ekber Yıldırım",
+    "publisher": "SİA"
+  },
+  {
+    "id": 638,
+    "title": "Yer Küre Sulara Gömülürken",
+    "author": "Peter  D. Ward",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 639,
+    "title": "Yer Sistemleri",
+    "author": "Ahmet Ertek",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 640,
+    "title": "Yerbilim Terimleri Sözlüğü",
+    "author": "Emrullah Güney",
+    "publisher": "Nobel"
+  },
+  {
+    "id": 641,
+    "title": "Yerel  Yönetimlerde CBS Uygulamaları",
+    "author": "Deniztan Ulutaş Karakol",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Kitaplığı"
+  },
+  {
+    "id": 642,
+    "title": "Yerleşme Coğrafyası (Spiral cilt)",
+    "author": "Bedriye Tolun Denker",
+    "publisher": "İstanbul Üniversitesi Yayınları"
+  },
+  {
+    "id": 643,
+    "title": "Yeşil Işın",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 644,
+    "title": "Yıldız Gezgini",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 645,
+    "title": "Yıldız Habercisi",
+    "author": "Galileo Galilei",
+    "publisher": "Tübitak"
+  },
+  {
+    "id": 646,
+    "title": "Yirminci Yüzyılda Paris",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 647,
+    "title": "Yol",
+    "author": "Jack London",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 648,
+    "title": "Yunan Tarihi",
+    "author": "Ksenophon",
+    "publisher": "Türk Tarih Kurumu"
+  },
+  {
+    "id": 649,
+    "title": "Yurt Ansiklopedisi 4",
+    "author": "Kolektif",
+    "publisher": "Anadolu Yayıncılık"
+  },
+  {
+    "id": 650,
+    "title": "Yüzen Şehir",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 651,
+    "title": "Yüzgeçli Yiyecekler",
+    "author": "Amy-Jane Beer ve John Dawes",
+    "publisher": "Boyut"
+  },
+  {
+    "id": 652,
+    "title": "Zacharius Usta",
+    "author": "Jules Verne",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 653,
+    "title": "Zaman Makinesi",
+    "author": "H. G. Wells",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları"
+  },
+  {
+    "id": 654,
+    "title": "Zaman Üzerine 9 Düşünce",
+    "author": "Jhon Gribbin",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 655,
+    "title": "Zamanın Daha Kısa Tarihi",
+    "author": "Stephen Hawking",
+    "publisher": "Doğan"
+  },
+  {
+    "id": 656,
+    "title": "Zamanın Kısa Tarihi",
+    "author": "Stephen Hawking",
+    "publisher": "Alfa"
+  },
+  {
+    "id": 657,
+    "title": "Zeytindağı",
+    "author": "Falih Rıfkı Atay",
+    "publisher": "Pozitif"
+  },
+  {
+    "id": 658,
+    "title": "Ankara",
+    "author": "Falih Rıfkı Atay",
+    "publisher": "Pozitif"
+  }
+]

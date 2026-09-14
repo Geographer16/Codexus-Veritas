@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Codexus Veritas — Kütüphane Fihristi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="head-inner">
+    <div class="mark">
+      <span class="mark-glyph">C·V</span>
+    </div>
+    <div class="head-text">
+      <h1>Codexus Veritas</h1>
+      <p class="subtitle">Kişisel kütüphane fihristi</p>
+    </div>
+    <button id="admin-toggle" class="admin-toggle" title="Yönetici girişi" aria-label="Yönetici girişi">⚿</button>
+  </div>
+</header>
+
+<main>
+  <section class="search-band">
+    <div class="search-inner">
+      <input
+        id="search"
+        type="text"
+        placeholder="Kitap adı, yazar veya yayınevi ara…"
+        autocomplete="off"
+        spellcheck="false"
+      >
+      <div class="search-meta">
+        <span id="result-count">— kitap</span>
+        <div class="sort-group">
+          <label for="sort-select">Sırala:</label>
+          <select id="sort-select">
+            <option value="title">Kitap adı</option>
+            <option value="author">Yazar</option>
+            <option value="publisher">Yayınevi</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="catalog-wrap">
+    <div id="catalog" class="catalog" role="list"></div>
+    <p id="empty-state" class="empty-state" hidden>Aramanla eşleşen kitap bulunamadı.</p>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <p><span id="total-count">0</span> ciltlik bir koleksiyon · son güncelleme <span id="last-updated">—</span></p>
+</footer>
+
+<!-- ADMIN PANEL -->
+<div id="admin-overlay" class="admin-overlay" hidden>
+  <div class="admin-panel">
+    <button id="admin-close" class="admin-close" aria-label="Kapat">✕</button>
+
+    <div id="admin-login-view" class="admin-view">
+      <h2>Yönetici Girişi</h2>
+      <p class="admin-hint">Kitap ekleyip çıkarmak için şifreni gir.</p>
+      <input id="admin-password" type="password" placeholder="Şifre" autocomplete="off">
+      <button id="admin-login-btn" class="btn-primary">Giriş yap</button>
+      <p id="admin-login-error" class="admin-error" hidden></p>
+    </div>
+
+    <div id="admin-token-view" class="admin-view" hidden>
+      <h2>GitHub Bağlantısı</h2>
+      <p class="admin-hint">
+        Değişikliklerin kaydedilmesi için bu tarayıcıya bir GitHub erişim anahtarı (token) tanımlaman gerekiyor.
+        Bu anahtar yalnızca senin tarayıcında saklanır, hiçbir yere gönderilmez.
+      </p>
+      <input id="gh-owner" type="text" placeholder="GitHub kullanıcı adı (örn. mehmet)" autocomplete="off">
+      <input id="gh-repo" type="text" placeholder="Repo adı (örn. codexus-veritas)" autocomplete="off">
+      <input id="gh-token" type="password" placeholder="GitHub Token (ghp_… veya github_pat_…)" autocomplete="off">
+      <button id="gh-save-btn" class="btn-primary">Kaydet ve devam et</button>
+      <p id="gh-token-error" class="admin-error" hidden></p>
+    </div>
+
+    <div id="admin-main-view" class="admin-view" hidden>
+      <div class="admin-main-head">
+        <h2>Kitapları Yönet</h2>
+        <button id="gh-forget-btn" class="btn-text">Bu tarayıcıyı unut</button>
+      </div>
+
+      <form id="add-book-form" class="add-book-form">
+        <h3>Yeni kitap ekle</h3>
+        <div class="add-book-grid">
+          <input id="new-title" type="text" placeholder="Kitap adı" required>
+          <input id="new-author" type="text" placeholder="Yazar">
+          <input id="new-publisher" type="text" placeholder="Yayınevi">
+        </div>
+        <button type="submit" class="btn-primary">Kitabı ekle</button>
+      </form>
+
+      <div class="admin-list-wrap">
+        <h3>Mevcut kitaplar <span id="admin-count"></span></h3>
+        <input id="admin-search" type="text" placeholder="Silmek için ara…" autocomplete="off">
+        <div id="admin-list" class="admin-list"></div>
+      </div>
+
+      <p id="admin-status" class="admin-status" hidden></p>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
