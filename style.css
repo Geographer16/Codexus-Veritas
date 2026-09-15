@@ -87,8 +87,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   color: var(--muted);
   font-size: 0.92rem;
 }
-.mark{ transition: border-color 0.15s ease; }
-.mark:hover{ border-color: var(--gold-bright); }
+
 
 /* ===== Search band ===== */
 .search-band{
