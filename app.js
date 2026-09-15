@@ -1,19 +1,11 @@
-/* ============================================================
-   Codexus Veritas — Kütüphane Fihristi
-   ============================================================ */
-
-const DATA_URL = 'books.json'; // aynı repo içinde relatif yol
+const DATA_URL = 'books.json';
 const LS_KEYS = { owner: 'cv_gh_owner', repo: 'cv_gh_repo', token: 'cv_gh_token' };
-const ADMIN_PASSWORD_HASH = null; // aşağıda setup() içinde ayarlanacak (bkz. README)
 
-let allBooks = [];      // GitHub'dan/dosyadan çekilen ham liste
+let allBooks = [];
 let currentSort = 'title';
-let fileSha = null;     // GitHub'daki books.json dosyasının mevcut sha'sı (güncelleme için gerekli)
-
-/* ---------------- Yardımcılar ---------------- */
+let fileSha = null;
 
 function trTurkishLower(str){
-  // Türkçe karakterleri doğru küçük harfe çeviren basit normalize
   return str
     .replace(/İ/g, 'i')
     .replace(/I/g, 'ı')
@@ -42,8 +34,6 @@ function highlight(text, query){
   return `${escapeHtml(before)}<mark>${escapeHtml(match)}</mark>${escapeHtml(after)}`;
 }
 
-/* ---------------- Veri yükleme ---------------- */
-
 async function loadBooks(){
   try{
     const res = await fetch(DATA_URL, { cache: 'no-store' });
@@ -65,8 +55,6 @@ function updateFooter(){
     year: 'numeric', month: 'long', day: 'numeric'
   });
 }
-
-/* ---------------- Arama + sıralama ---------------- */
 
 function getFilteredSorted(){
   const query = document.getElementById('search').value.trim();
@@ -124,17 +112,11 @@ function renderCatalog(){
   catalog.appendChild(frag);
 }
 
-/* ---------------- Event listeners: arama/sıralama ---------------- */
-
 document.getElementById('search').addEventListener('input', renderCatalog);
 document.getElementById('sort-select').addEventListener('change', (e) => {
   currentSort = e.target.value;
   renderCatalog();
 });
-
-/* ============================================================
-   ADMIN PANEL
-   ============================================================ */
 
 const overlay = document.getElementById('admin-overlay');
 const loginView = document.getElementById('admin-login-view');
@@ -193,10 +175,7 @@ function showMainView(){
   renderAdminList();
 }
 
-/* ---- Şifre girişi ----
-   NOT: Bu istemci-taraflı bir kontrol, gerçek bir güvenlik sınırı değildir.
-   Sadece paneli tesadüfen gezinenlerden gizler. Asıl koruma GitHub token'ında. */
-const ADMIN_PASSWORD = 'JulesVerne'; // <-- 
+const ADMIN_PASSWORD = 'JulesVerne';
 
 document.getElementById('admin-login-btn').addEventListener('click', () => {
   const pw = document.getElementById('admin-password').value;
@@ -218,8 +197,6 @@ document.getElementById('admin-login-btn').addEventListener('click', () => {
 document.getElementById('admin-password').addEventListener('keydown', (e) => {
   if(e.key === 'Enter') document.getElementById('admin-login-btn').click();
 });
-
-/* ---- Token kaydetme ---- */
 
 document.getElementById('gh-save-btn').addEventListener('click', () => {
   const owner = document.getElementById('gh-owner').value.trim();
@@ -249,8 +226,6 @@ document.getElementById('gh-forget-btn').addEventListener('click', () => {
   }
 });
 
-/* ---- Admin liste görünümü (silme) ---- */
-
 function renderAdminList(){
   const listEl = document.getElementById('admin-list');
   const countEl = document.getElementById('admin-count');
@@ -269,7 +244,7 @@ function renderAdminList(){
 
   listEl.innerHTML = '';
   const frag = document.createDocumentFragment();
-  for(const book of list.slice(0, 200)){ // performans için sınırlı göster
+  for(const book of list.slice(0, 200)){
     const row = document.createElement('div');
     row.className = 'admin-list-row';
     row.innerHTML = `
@@ -289,8 +264,6 @@ function renderAdminList(){
 }
 
 document.getElementById('admin-search').addEventListener('input', renderAdminList);
-
-/* ---- Kitap ekleme ---- */
 
 document.getElementById('add-book-form').addEventListener('submit', async (e) => {
   e.preventDefault();
@@ -314,8 +287,6 @@ document.getElementById('add-book-form').addEventListener('submit', async (e) =>
   }
 });
 
-/* ---- Kitap silme ---- */
-
 async function handleDelete(id){
   const book = allBooks.find(b => b.id === id);
   if(!book) return;
@@ -330,8 +301,6 @@ async function handleDelete(id){
     updateFooter();
   }
 }
-
-/* ---- GitHub API ile kaydetme ---- */
 
 function setStatus(msg, type){
   const el = document.getElementById('admin-status');
@@ -371,7 +340,6 @@ async function saveToGitHub(updatedBooks, commitMessage){
     const sha = await fetchCurrentSha(owner, repo, token);
 
     const jsonStr = JSON.stringify(updatedBooks, null, 2);
-    // UTF-8 güvenli base64 encode
     const base64Content = btoa(unescape(encodeURIComponent(jsonStr)));
 
     const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/books.json`, {
@@ -402,7 +370,5 @@ async function saveToGitHub(updatedBooks, commitMessage){
     return false;
   }
 }
-
-/* ---------------- Başlat ---------------- */
 
 loadBooks();
